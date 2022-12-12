@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning
 - JAVA
 - PHYTON
-- WED DESIGN
+- WEB DESIGN
 - 📫 How to reach me
 - DM me on twitter
 

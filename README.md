@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @JexterCaber
-- 👀 I’m interested in
-- READING
-- 🌱 I’m currently learning
-- JAVA
-- PHYTON
-- WEB DESIGN
 - 📫 How to reach me
 - DM me on twitter
 
